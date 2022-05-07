@@ -32,6 +32,7 @@ Wrote program to generate random probabilities and submitted sample file for sco
 
 
 ###PROBLEMS FACED DURING ASSINGMNET
+
 First of all we was not familiar with Kaggle, so all of us registered our self in kaggle. Then in joining competition we were facing issue
 in phone number verification. Every time Kaggle was showing that this number can not be verify. So we send complain to kaggle help and support.
 After some time we got registered in Tabular Playground Series May 2022. In last we faced some issues in writing python program to generate
