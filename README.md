@@ -41,3 +41,7 @@ probabilities but after focusing we successfully generated random probabilites b
 ### SCORE SCREENSHOT (7 MAY 2022)
 
 ![SCORE](https://user-images.githubusercontent.com/87540423/167255701-7f24abbc-6447-4f00-98e4-3309ee39db22.png)
+
+### PYTHON PROGRAM FILE
+
+[AI_A2.py.txt](https://github.com/Saad-Bin-Mujahid/Assign-2/files/8645216/AI_A2.py.txt)
