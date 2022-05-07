@@ -37,3 +37,7 @@ First of all we was not familiar with Kaggle, so all of us registered our self i
 in phone number verification. Every time Kaggle was showing that this number can not be verify. So we send complain to kaggle help and support.
 After some time we got registered in Tabular Playground Series May 2022. In last we faced some issues in writing python program to generate
 probabilities but after focusing we successfully generated random probabilites by our python program.
+
+### SCORE SCREENSHOT (7 MAY 2022)
+
+![SCORE](https://user-images.githubusercontent.com/87540423/167255701-7f24abbc-6447-4f00-98e4-3309ee39db22.png)
