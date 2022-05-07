@@ -31,7 +31,7 @@ Wrote program to generate random probabilities and submitted sample file for sco
 ## SYED SALMAN KHURSHEED
 
 
-###PROBLEMS FACED DURING ASSINGMNET
+### PROBLEMS FACED DURING ASSINGMNET
 
 First of all we was not familiar with Kaggle, so all of us registered our self in kaggle. Then in joining competition we were facing issue
 in phone number verification. Every time Kaggle was showing that this number can not be verify. So we send complain to kaggle help and support.
